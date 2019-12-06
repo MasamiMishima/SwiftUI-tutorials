@@ -1,15 +1,15 @@
 //
-//  swiftUISampleTests.swift
-//  swiftUISampleTests
+//  SwiftUI_tutorialsTests.swift
+//  SwiftUI-tutorialsTests
 //
-//  Created by 三島 正三 on 2019/02/20.
+//  Created by 三島 正三 on 2019/12/06.
 //  Copyright © 2019 msm. All rights reserved.
 //
 
 import XCTest
-@testable import swiftUISample
+@testable import SwiftUI_tutorials
 
-class swiftUISampleTests: XCTestCase {
+class SwiftUI_tutorialsTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
