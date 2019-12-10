@@ -25,6 +25,7 @@
 		8F6DC0A7239E4F81006C9456 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6DC0A6239E4F81006C9456 /* LandmarkDetail.swift */; };
 		8F6DC0A9239E5014006C9456 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6DC0A8239E5014006C9456 /* LandmarkRow.swift */; };
 		8F6DC0AB239E50FD006C9456 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6DC0AA239E50FD006C9456 /* LandmarkList.swift */; };
+		8F6DC0AD239F4C36006C9456 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6DC0AC239F4C36006C9456 /* UserData.swift */; };
 		8F755421239A8677003B168A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F755420239A8677003B168A /* AppDelegate.swift */; };
 		8F755423239A8677003B168A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F755422239A8677003B168A /* SceneDelegate.swift */; };
 		8F755426239A8677003B168A /* SwiftUI_tutorials.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8F755424239A8677003B168A /* SwiftUI_tutorials.xcdatamodeld */; };
@@ -65,6 +66,7 @@
 		8F6DC0A6239E4F81006C9456 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		8F6DC0A8239E5014006C9456 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		8F6DC0AA239E50FD006C9456 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		8F6DC0AC239F4C36006C9456 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		8F75541D239A8677003B168A /* SwiftUI-tutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-tutorials.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F755420239A8677003B168A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8F755422239A8677003B168A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 			children = (
 				8F6DC084239E4CF1006C9456 /* Landmark.swift */,
 				8F6DC087239E4D43006C9456 /* Data.swift */,
+				8F6DC0AC239F4C36006C9456 /* UserData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				8F755426239A8677003B168A /* SwiftUI_tutorials.xcdatamodeld in Sources */,
 				8F755421239A8677003B168A /* AppDelegate.swift in Sources */,
 				8F755446239A86AC003B168A /* MapView.swift in Sources */,
+				8F6DC0AD239F4C36006C9456 /* UserData.swift in Sources */,
 				8F6DC0A7239E4F81006C9456 /* LandmarkDetail.swift in Sources */,
 				8F755423239A8677003B168A /* SceneDelegate.swift in Sources */,
 				8F755448239A86C4003B168A /* CircleImage.swift in Sources */,
